@@ -1,0 +1,286 @@
+html {
+  min-height: 100%;
+  position: relative;
+}
+body {
+  font-family: "Cairo", sans-serif;
+}
+
+.navbar {
+  background-color: #5c2e91;
+}
+.my-brand {
+  position: absolute;
+  left: 30px;
+}
+.nav-link {
+  margin-right: 20px;
+}
+
+a {
+  text-decoration: none !important;
+}
+
+nav a:hover {
+  color: #8a57c5 !important;
+}
+
+.after-slider {
+  background-color: #8a57c5;
+}
+
+.my-bg-warning {
+  background-color: rgba(255, 193, 7, 0.7);
+}
+
+.author {
+  font-size: 16px !important;
+}
+.yellow-text,
+.footer-text {
+  font-size: 20px;
+}
+.my-countdown {
+  text-decoration: none;
+  line-height: 1;
+  display: inline-block;
+  padding: 15px 40px;
+  font-size: 30px;
+  font-weight: bold;
+  color: #000;
+  border: 2px solid #5c2e91;
+}
+
+.yellow-text,
+.DE,
+.AE,
+.SA,
+.TR,
+.QA,
+.BH,
+.SE,
+.KW,
+.IQ,
+.LB,
+.OM,
+.JO {
+  font-size: 20px;
+  display: none;
+}
+
+.h1-copy {
+  color: #5c2e91;
+  font-size: 50px;
+}
+
+h2 {
+  color: #5c2e91;
+  font-size: 40px;
+}
+h4 {
+  color: #5c2e91;
+}
+
+.review-button {
+  background-color: #5c2e91 !important;
+  color: #fff;
+  text-decoration: none;
+  line-height: 1;
+  cursor: pointer;
+  display: inline-block;
+  padding: 15px 30px;
+  font-size: 20px;
+  border: none !important;
+}
+
+.my-green-text {
+  color: #35691b !important;
+}
+.my-p-color {
+  color: #5c2e91;
+  font-size: 25px !important;
+}
+.my-purple-text {
+  color: #5c2e91;
+}
+p {
+  line-height: 1.7em !important;
+  font-size: 18px !important;
+}
+
+.my-centered-headlines {
+  font-size: 28px !important;
+  background-color: #e0e0e0;
+  font-weight: 800 !important;
+  padding: 15px;
+}
+.my-order-text {
+  font-size: 10px;
+}
+.second-image-copy {
+  width: 200px;
+}
+
+.order-list {
+  list-style: none;
+}
+
+.button1 {
+  background: #7cb209 !important;
+  text-decoration: none;
+  line-height: 1;
+  cursor: pointer;
+  display: inline-block;
+  padding: 20px 40px;
+  font-size: 30px;
+  text-transform: uppercase;
+  color: #fff;
+  border: none !important;
+  font-weight: bold;
+}
+
+.button1:hover {
+  background-color: #597f06 !important;
+}
+.my-order-images {
+  width: 300px;
+}
+
+.accordion button {
+  color: #8a57c5 !important;
+}
+
+#footer {
+  bottom: 0;
+  width: 100%;
+  position: absolute;
+  height: 65px;
+}
+.footer-block {
+  margin: 20px 0;
+}
+
+.my-cart {
+  margin: auto;
+}
+.my-total {
+  background-color: #dadadb;
+}
+.accordion button {
+  white-space: normal;
+}
+
+.my-check-list {
+  list-style-image: url(images/check.png);
+}
+.my-wrong-check {
+  list-style-image: url(images/xmark.png);
+}
+.my-index-list {
+  font-size: 18px;
+  margin-bottom: 50px !important;
+}
+
+.my-c9-review,
+.first-review {
+  border-radius: 30px;
+  background-color: #efefef;
+  padding: 30px;
+}
+
+.c-9-elements-headline {
+  font-size: 24px;
+}
+.bonus {
+  background-color: rgba(149, 159, 93, 0.7);
+}
+@media screen and (max-width: 767px) {
+  .cod-img {
+    width: 50%;
+  }
+}
+
+@media screen and (max-width: 623px) {
+  .yellow-text,
+  .footer-text,
+  .DE,
+  .AE,
+  .SA,
+  .TR,
+  .QA,
+  .BH,
+  .SE,
+  .KW,
+  .IQ,
+  .LB,
+  .OM,
+  .JO {
+    font-size: 12px;
+  }
+  .h1-copy {
+    font-size: 40px;
+  }
+  h2 {
+    font-size: 23px;
+  }
+  p {
+    font-size: 16px !important;
+  }
+  .my-order-text {
+    font-size: 10px;
+  }
+  .my-countdown {
+    font-size: 20px;
+  }
+  .my-centered-headlines {
+    font-size: 20px !important;
+  }
+
+  .my-index-list {
+    font-size: 17px;
+  }
+  .button1 {
+    font-size: 20px;
+  }
+  .c-9-elements-headline {
+    font-size: 19px;
+  }
+  .c-9-elements {
+    font-size: 17px;
+  }
+  .author {
+    font-size: 13px !important;
+    font-weight: bold;
+  }
+  .my-black-cta {
+    font-size: 25px;
+  }
+  .my-warning {
+    font-size: 5px;
+  }
+  .my-check-list {
+    list-style-image: url(images/check-mob.png);
+  }
+  .my-wrong-check {
+    list-style-image: url(images/xmark-mob.png);
+  }
+  .cod-img {
+    width: 65%;
+  }
+  .yellow-text,
+  .footer-text,
+  .DE,
+  .AE,
+  .SA,
+  .TR,
+  .QA,
+  .BH,
+  .SE,
+  .KW,
+  .IQ,
+  .LB,
+  .OM,
+  .JO {
+    font-size: 14px !important;
+  }
+}
