@@ -26,6 +26,3 @@ Technologies i used in my project
 -----------------
 
 ![A](assets/images/preview-1.png)
-![A](assets/images/preview-2.png)
-![A](assets/images/preview-3.png)
-![A](assets/images/preview-4.png)
