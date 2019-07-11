@@ -1,6 +1,6 @@
 $.ajax({
   url:
-    "http://api.ipstack.com/check?access_key=db5df308353018712b1220db9d00b850",
+    "https://api.ipstack.com/check?access_key=db5df308353018712b1220db9d00b850",
   dataType: "jsonp",
   success: function(response) {
     var country = response.country_code;
