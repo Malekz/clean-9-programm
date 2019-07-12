@@ -8,8 +8,7 @@ A simple website design that built with bootstrap and jquery and pure vanilla js
 
  Website link for clean-9-programm
 ------------------------------
-https://malekz.github.io/portfolio/
-
+https://malekz.github.io/clean-9-programm/
 
 Technologies i used in my project
 ----------------------------------
